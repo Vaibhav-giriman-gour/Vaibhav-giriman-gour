@@ -1,10 +1,6 @@
 <h1 align="center">Hoi Hoi 👋, I'm Vaibhav Giriman Gour</h1>
 <h3 align="center">A well-organized, creative and goal oriented Software Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-giriman-gour&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-giriman-gour" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-giriman-gour" alt="vaibhav-giriman-gour" /></a> </p>
-
 - 🔭 I’m currently working on **Music Player site**
 
 - 🌱 I’m currently learning **React, Node**
